@@ -122,3 +122,14 @@ hide_st_style = """
             """
 st.markdown(hide_st_style,unsafe_allow_html=True)
 
+
+st.markdown(
+    """
+    <style>
+    .viewerBadge_link__qRIco {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
