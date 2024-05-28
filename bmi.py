@@ -102,7 +102,7 @@ st.markdown("""<style>
 st.markdown(
     """
     <style>
-    .st-emotion-cache-q16mip e3g6aar1 {
+    .st-emotion-cache-q16mip.e3g6aar1 {
         display: none;
     }
     </style>
