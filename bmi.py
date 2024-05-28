@@ -95,7 +95,7 @@ if bt:
     
 
 st.markdown("""<style>
-.st-emotion-cache-q16mip e3g6aar1{visibility: invisible;}
+.st-emotion-cache-q16mip e3g6aar1{display: none;}
 </style>""",unsafe_allow_html=True)
 
 
