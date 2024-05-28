@@ -99,4 +99,17 @@ st.markdown("""<style>
 </style>""",unsafe_allow_html=True)
 
 
+st.markdown(
+    """
+    <style>
+    .st-emotion-cache-q16mip e3g6aar1 {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+
+
 
