@@ -94,7 +94,9 @@ if bt:
             st.info("1. Strength Training: Focus on weight lifting and resistance exercises to build muscle mass.\n2. Compound Exercises: Squats, deadlifts, bench presses, and pull-ups.\n3. Low-Intensity Cardio: Walking or light jogging to improve cardiovascular health without excessive calorie burn.")
     
 
-
+st.markdown("""<style>
+.st-emotion-cache-q16mip e3g6aar1{visibility: invisible;}
+</style>""",unsafe_allow_html=True)
 
 
 
