@@ -112,5 +112,13 @@ st.markdown(
 
 #<button kind="header" data-testid="baseButton-header" class="st-emotion-cache-ch5dnh ef3psqc5"><div class="st-emotion-cache-1wbqy5l e3g6aar2"><div data-testid="stActionButtonIcon" class="st-emotion-cache-q16mip e3g6aar1"></div></div></button>
 
-
+hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            .css-1rs6os {visibility: hidden;}
+            .css-17ziqus {visibility: hidden;}
+            """
+st.markdown(hide_st_style,unsafe_allow_html=True)
 
