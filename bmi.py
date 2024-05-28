@@ -102,7 +102,7 @@ st.markdown("""<style>
 st.markdown(
     """
     <style>
-    .st-emotion-cache-q16mip.e3g6aar1 {
+    .st-emotion-cache-ch5dnh ef3psqc5 {
         display: none;
     }
     </style>
@@ -110,6 +110,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+#<button kind="header" data-testid="baseButton-header" class="st-emotion-cache-ch5dnh ef3psqc5"><div class="st-emotion-cache-1wbqy5l e3g6aar2"><div data-testid="stActionButtonIcon" class="st-emotion-cache-q16mip e3g6aar1"></div></div></button>
 
 
 
