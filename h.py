@@ -121,3 +121,5 @@ hide_st_style = """
             .css-17ziqus {visibility: hidden;}
             """
 st.markdown(hide_st_style,unsafe_allow_html=True)
+
+st.caption('developed by')
